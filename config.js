@@ -7,7 +7,7 @@ GH.ID = 'ODUzMjY1YjA5YjBjMjVlOTg2MTQ='
 // Github Owner's
 GH.OWNER = 'labua'
 // Github crew's repository
-GH.CREW = 'labua.github.io/organisations'
+GH.CREW = 'pages'
 
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Pratiques pédagogiques innovantes'
