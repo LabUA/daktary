@@ -5,12 +5,12 @@ var GH = {}
 GH.SECRET = 'YWU0ZmRkZGFjOTVlZGM1ZTc1MmI3NjRjZTI3Y2UxZGYyMzdmZTdkZg=='
 GH.ID = 'ODUzMjY1YjA5YjBjMjVlOTg2MTQ='
 // Github Owner's
-GH.OWNER = 'multibao'
+GH.OWNER = 'labua'
 // Github crew's repository
-GH.CREW = 'organisations'
+GH.CREW = 'labua/organisations'
 
 var MULTIBAO = {}
-MULTIBAO.UVP1 = 'Partager et enrichir vos pratiques d\'équipe'
-MULTIBAO.UVP2 = 'Let\'s Do It Together'
-MULTIBAO.BUTTON1 = 'Découvrir'
-MULTIBAO.BUTTON2 = 'Espace contributeurs / bloggeurs'
+MULTIBAO.UVP1 = 'Pratiques pédagogiques innovantes'
+MULTIBAO.UVP2 = '8 novembre 2016'
+MULTIBAO.BUTTON1 = 'C\'est quoi cette techno?'
+MULTIBAO.BUTTON2 = 'Contribuer à entretenir les fiches'
