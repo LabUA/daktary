@@ -11,6 +11,6 @@ GH.CREW = 'pages'
 
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Pratiques pédagogiques innovantes'
-MULTIBAO.UVP2 = '8 novembre 2016, Université d\'Angers, Thomas Wolff, @thom_wolff'
-MULTIBAO.BUTTON1 = 'C\'est quoi cette techno?'
-MULTIBAO.BUTTON2 = 'Contribuer à entretenir les fiches'
+MULTIBAO.UVP2 = 'Atelier 8 novembre 2016, @thom_wolff'
+MULTIBAO.BUTTON1 = 'D\'où viennent ces fiches?'
+MULTIBAO.BUTTON2 = 'Les entretenir'
