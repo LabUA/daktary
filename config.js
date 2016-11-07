@@ -11,6 +11,6 @@ GH.CREW = 'labua.github.io/organisations'
 
 var MULTIBAO = {}
 MULTIBAO.UVP1 = 'Pratiques pédagogiques innovantes'
-MULTIBAO.UVP2 = '8 novembre 2016, Angers, @thom_wolff'
+MULTIBAO.UVP2 = '8 novembre 2016, Université d\'Angers, <a href="http://twitter.com/thom_wolff>@thom_wolff</a>'
 MULTIBAO.BUTTON1 = 'C\'est quoi cette techno?'
 MULTIBAO.BUTTON2 = 'Contribuer à entretenir les fiches'
